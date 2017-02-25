@@ -28,15 +28,15 @@
     <BootSegment>0</BootSegment>
     <AsfFrameworkConfig>
       <framework-data>
-  <options />
-  <configurations />
-  <files />
-  <documentation help="" />
-  <offline-documentation help="" />
-  <dependencies>
-    <content-extension eid="atmel.asf" uuidref="Atmel.ASF" version="3.22.0" />
-  </dependencies>
-</framework-data>
+        <options />
+        <configurations />
+        <files />
+        <documentation help="" />
+        <offline-documentation help="" />
+        <dependencies>
+          <content-extension eid="atmel.asf" uuidref="Atmel.ASF" version="3.22.0" />
+        </dependencies>
+      </framework-data>
     </AsfFrameworkConfig>
     <preserveEEPROM>true</preserveEEPROM>
   </PropertyGroup>
@@ -64,6 +64,14 @@
   </avrgcc.compiler.symbols.DefSymbols>
   <avrgcc.compiler.directories.IncludePaths>
     <ListValues>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master/utility</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus/utility</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial/utility</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master/utility</Value>
       <Value>E:/Program Files (x86)/Arduino/libraries</Value>
       <Value>E:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries</Value>
@@ -96,6 +104,14 @@
   </avrgcccpp.compiler.symbols.DefSymbols>
   <avrgcccpp.compiler.directories.IncludePaths>
     <ListValues>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master/utility</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus/utility</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial/utility</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master/utility</Value>
       <Value>E:/Program Files (x86)/Arduino/libraries</Value>
       <Value>E:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries</Value>
@@ -115,7 +131,7 @@
   <avrgcccpp.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcccpp.assembler.debugging.DebugLevel>
 </AvrGccCpp>
     </ToolchainSettings>
-    <VMSETTING_IncludePaths>E:/Program Files (x86)/Arduino/libraries;E:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;C:/Users/Mike/Documents/Arduino/libraries;E:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;E:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/eightanaloginputs;../../../ModbusSlave;E:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/;E:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/;E:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include;</VMSETTING_IncludePaths>
+    <VMSETTING_IncludePaths>E:/Program Files (x86)/Arduino/libraries;E:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;C:/Users/Mike/Documents/Arduino/libraries;E:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;E:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/eightanaloginputs;../../../ModbusSlave;E:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/;E:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/;E:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include;C:/Users/Mike/Documents/Arduino/libraries/OneWire-master;C:/Users/Mike/Documents/Arduino/libraries/OneWire-master/utility;E:/Program Files (x86)/Atmel/Studio/7.0/Extensions/jjf5ye1q.kmx/Micro Platforms/default/debuggers;C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master;C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master/utility;C:/Users/Mike/Documents/Arduino/libraries/Modbus;C:/Users/Mike/Documents/Arduino/libraries/Modbus/utility;C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial;C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial/utility;</VMSETTING_IncludePaths>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <ToolchainSettings>
@@ -141,6 +157,14 @@
   </avrgcc.compiler.symbols.DefSymbols>
   <avrgcc.compiler.directories.IncludePaths>
     <ListValues>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master/utility</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus/utility</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial/utility</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master/utility</Value>
       <Value>E:/Program Files (x86)/Arduino/libraries</Value>
       <Value>E:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries</Value>
@@ -173,6 +197,14 @@
   </avrgcccpp.compiler.symbols.DefSymbols>
   <avrgcccpp.compiler.directories.IncludePaths>
     <ListValues>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master/utility</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus/utility</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial/utility</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master/utility</Value>
       <Value>E:/Program Files (x86)/Arduino/libraries</Value>
       <Value>E:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries</Value>
@@ -192,7 +224,7 @@
   <avrgcccpp.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcccpp.assembler.debugging.DebugLevel>
 </AvrGccCpp>
     </ToolchainSettings>
-    <VMSETTING_IncludePaths>E:/Program Files (x86)/Arduino/libraries;E:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;C:/Users/Mike/Documents/Arduino/libraries;E:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;E:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/eightanaloginputs;../../../ModbusSlave;E:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/;E:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/;E:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include;</VMSETTING_IncludePaths>
+    <VMSETTING_IncludePaths>E:/Program Files (x86)/Arduino/libraries;E:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;C:/Users/Mike/Documents/Arduino/libraries;E:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;E:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/eightanaloginputs;../../../ModbusSlave;E:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/;E:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/;E:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include;C:/Users/Mike/Documents/Arduino/libraries/OneWire-master;C:/Users/Mike/Documents/Arduino/libraries/OneWire-master/utility;E:/Program Files (x86)/Atmel/Studio/7.0/Extensions/jjf5ye1q.kmx/Micro Platforms/default/debuggers;C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master;C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master/utility;C:/Users/Mike/Documents/Arduino/libraries/Modbus;C:/Users/Mike/Documents/Arduino/libraries/Modbus/utility;C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial;C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial/utility;</VMSETTING_IncludePaths>
   </PropertyGroup>
   <ItemGroup>
     <None Include="ModbusSlave.ino">
