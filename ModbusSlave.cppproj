@@ -64,12 +64,12 @@
   </avrgcc.compiler.symbols.DefSymbols>
   <avrgcc.compiler.directories.IncludePaths>
     <ListValues>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master/utility</Value>
-      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus/utility</Value>
-      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial/utility</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master/utility</Value>
       <Value>E:/Program Files (x86)/Arduino/libraries</Value>
@@ -104,12 +104,12 @@
   </avrgcccpp.compiler.symbols.DefSymbols>
   <avrgcccpp.compiler.directories.IncludePaths>
     <ListValues>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master/utility</Value>
-      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus/utility</Value>
-      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial/utility</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master/utility</Value>
       <Value>E:/Program Files (x86)/Arduino/libraries</Value>
@@ -157,12 +157,12 @@
   </avrgcc.compiler.symbols.DefSymbols>
   <avrgcc.compiler.directories.IncludePaths>
     <ListValues>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master/utility</Value>
-      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus/utility</Value>
-      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial/utility</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master/utility</Value>
       <Value>E:/Program Files (x86)/Arduino/libraries</Value>
@@ -197,12 +197,12 @@
   </avrgcccpp.compiler.symbols.DefSymbols>
   <avrgcccpp.compiler.directories.IncludePaths>
     <ListValues>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial</Value>
+      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/Arduino-Temperature-Control-Library-master/utility</Value>
-      <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/Modbus/utility</Value>
-      <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/ModbusSerial/utility</Value>
       <Value>C:/Users/Mike/Documents/Arduino/libraries/OneWire-master/utility</Value>
       <Value>E:/Program Files (x86)/Arduino/libraries</Value>
